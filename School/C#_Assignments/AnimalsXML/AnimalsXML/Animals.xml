@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animals>
+    <Birds ID="89">
+        <CommonName>j</CommonName>
+        <Species>j</Species>
+        <ContinentOrigin>j</ContinentOrigin>
+        <Markings>j</Markings>
+        <Category>Bird</Category>
+    </Birds>
+    <Mammals ID="5">
+        <CommonName>g</CommonName>
+        <Species>g</Species>
+        <ContinentOrigin>g</ContinentOrigin>
+        <Markings>g</Markings>
+        <Category>Mammal</Category>
+    </Mammals>
+</Animals>

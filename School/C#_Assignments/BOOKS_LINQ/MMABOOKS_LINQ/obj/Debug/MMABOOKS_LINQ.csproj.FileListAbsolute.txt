@@ -1,0 +1,60 @@
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\bin\Debug\MMABooks.mdf
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\bin\Debug\MMABooks_log.ldf
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.exe.config
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.exe
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.pdb
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csprojResolveAssemblyReference.cache
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.Form1.resources
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.Properties.Resources.resources
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csproj.GenerateResource.cache
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.exe
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.pdb
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\bin\Debug\MMABooks.mdf
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\bin\Debug\MMABooks_log.ldf
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.exe.config
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.exe
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.pdb
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csprojResolveAssemblyReference.cache
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.Form1.resources
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.Properties.Resources.resources
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csproj.GenerateResource.cache
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.exe
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_SOLUTION\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.pdb
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABooks.mdf
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABooks_log.ldf
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.exe.config
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.exe
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.pdb
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csprojResolveAssemblyReference.cache
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.Form1.resources
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.Properties.Resources.resources
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csproj.GenerateResource.cache
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.exe
+C:\Users\nick.taggart\Documents\1-DB Programming-PROG1121\Assignments\LINQ\LINQ2\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.pdb
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABooks.mdf
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABooks_log.ldf
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.exe.config
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.exe
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.pdb
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csprojAssemblyReference.cache
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.Form1.resources
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.Properties.Resources.resources
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csproj.GenerateResource.cache
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.exe
+C:\Users\adamb\OneDrive\Documents\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.pdb
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABooks.mdf
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABooks_log.ldf
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.exe.config
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.exe
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\bin\Debug\MMABOOKS_LINQ.pdb
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csprojAssemblyReference.cache
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.Form1.resources
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.Properties.Resources.resources
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csproj.GenerateResource.cache
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.csproj.CoreCompileInputs.cache
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.exe
+D:\School\Year 1\Term 3\Database Programming\Assignment 16\MMABOOKS_LINQ_Start\MMABOOKS_LINQ\obj\Debug\MMABOOKS_LINQ.pdb

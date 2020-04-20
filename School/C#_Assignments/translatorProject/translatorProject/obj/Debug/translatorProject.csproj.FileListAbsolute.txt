@@ -1,0 +1,50 @@
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\bin\Debug\translatorProject.exe.config
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\bin\Debug\translatorProject.exe
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\bin\Debug\translatorProject.pdb
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.csprojAssemblyReference.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.translatorForm.resources
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.Properties.Resources.resources
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.csproj.GenerateResource.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.csproj.CoreCompileInputs.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.exe
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.pdb
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProjectBackup\translatorProject\bin\Debug\translatorProject.exe.config
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProjectBackup\translatorProject\bin\Debug\translatorProject.exe
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProjectBackup\translatorProject\bin\Debug\translatorProject.pdb
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProjectBackup\translatorProject\obj\Debug\translatorProject.csprojAssemblyReference.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProjectBackup\translatorProject\obj\Debug\translatorProject.translatorForm.resources
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProjectBackup\translatorProject\obj\Debug\translatorProject.Properties.Resources.resources
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProjectBackup\translatorProject\obj\Debug\translatorProject.csproj.GenerateResource.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProjectBackup\translatorProject\obj\Debug\translatorProject.csproj.CoreCompileInputs.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProjectBackup\translatorProject\obj\Debug\translatorProject.exe
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProjectBackup\translatorProject\obj\Debug\translatorProject.pdb
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject - Backup\translatorProject\bin\Debug\translatorProject.exe.config
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject - Backup\translatorProject\bin\Debug\translatorProject.exe
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject - Backup\translatorProject\bin\Debug\translatorProject.pdb
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject - Backup\translatorProject\obj\Debug\translatorProject.csprojAssemblyReference.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject - Backup\translatorProject\obj\Debug\translatorProject.translatorForm.resources
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject - Backup\translatorProject\obj\Debug\translatorProject.Properties.Resources.resources
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject - Backup\translatorProject\obj\Debug\translatorProject.csproj.GenerateResource.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject - Backup\translatorProject\obj\Debug\translatorProject.csproj.CoreCompileInputs.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject - Backup\translatorProject\obj\Debug\translatorProject.exe
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject - Backup\translatorProject\obj\Debug\translatorProject.pdb
+G:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\bin\Debug\translatorProject.exe.config
+G:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\bin\Debug\translatorProject.exe
+G:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\bin\Debug\translatorProject.pdb
+G:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.csprojAssemblyReference.cache
+G:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.translatorForm.resources
+G:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.Properties.Resources.resources
+G:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.csproj.GenerateResource.cache
+G:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.csproj.CoreCompileInputs.cache
+G:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.exe
+G:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.pdb
+D:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\bin\Debug\translatorProject.exe.config
+D:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\bin\Debug\translatorProject.exe
+D:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\bin\Debug\translatorProject.pdb
+D:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.csprojAssemblyReference.cache
+D:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.translatorForm.resources
+D:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.Properties.Resources.resources
+D:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.csproj.GenerateResource.cache
+D:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.csproj.CoreCompileInputs.cache
+D:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.exe
+D:\School\Year 1\Term 2\Object Oriented Programming\Final Project\translatorProject\translatorProject\obj\Debug\translatorProject.pdb

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">	
+    <title>Alternating Row Plugin</title>
+    <link rel="stylesheet" href="altrow.css">
+    <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="jquery.altrow.js"></script>
+    <script src="altrow.js"></script>
+</head>
+<body>
+    <main>
+      <h1>Baseball Standings</h1>
+      <table id="important">
+            <tr>
+                <th>Team</th><th>Wins</th><th>Losses</th><th>Percentage</th>
+            </tr>
+            <tr>
+                <td>NY Yankees</td><td>38</td><td>20</td><td>.655</td>
+            </tr>
+            <tr>
+                <td>Tampa Bay Rays</td><td>35</td><td>22</td><td>.614</td>
+            </tr>
+            <tr>
+                <td>Boston Red Sox</td><td>30</td><td>29</td><td>.508</td>
+            </tr>
+            <tr>
+                <td>Blue Jays</td><td>21</td><td>38</td><td>.356</td>
+            </tr>
+			<tr>
+                <td>Baltimore Orioles</td><td>18</td><td>41</td><td>.305</td>
+            </tr>
+        </table>
+		<input type="radio" name="Colour" value="1" id="Scheme1" checked onclick = $("body").colourScheme1() >Colour Scheme 1
+		<input type="radio" name="Colour" value="2" id="Scheme2" onclick = $("body").colourScheme2() >Colour Scheme 2
+    </main>
+</body>
+</html>

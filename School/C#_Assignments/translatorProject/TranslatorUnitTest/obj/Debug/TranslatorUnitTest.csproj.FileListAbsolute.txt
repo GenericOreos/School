@@ -1,0 +1,17 @@
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\TranslatorUnitTest.dll
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\TranslatorUnitTest.pdb
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\translatorProject.exe
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\translatorProject.pdb
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\translatorProject.exe.config
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\obj\Debug\TranslatorUnitTest.csprojAssemblyReference.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\obj\Debug\TranslatorUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\obj\Debug\TranslatorUnitTest.csproj.CopyComplete
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\obj\Debug\TranslatorUnitTest.dll
+C:\Users\adamb\OneDrive\Documents\Term 2\Object Oriented Programming\Final Project\translatorProject\TranslatorUnitTest\obj\Debug\TranslatorUnitTest.pdb
